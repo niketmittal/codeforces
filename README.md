@@ -1,2 +1,2 @@
 # dailyCodes
-whatever code I write in a day
+whatever questions I solve in a day goes here
