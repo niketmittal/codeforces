@@ -1,2 +1,2 @@
-# dailyCodes
-whatever questions I solve in a day goes here
+# codeforces
+... daily codes
