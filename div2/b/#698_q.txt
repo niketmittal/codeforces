@@ -1,3 +1,9 @@
+time limit per test:1 second
+memory limit per test:512 megabytes
+input:standard input
+output:standard output
+
+
 Nezzar's favorite digit among 1,…,9 is d. He calls a positive integer lucky if d occurs at least once in its decimal representation.
 
 Given q integers a1,a2,…,aq, for each 1≤i≤q Nezzar would like to know if ai can be equal to a sum of several (one or more) lucky numbers.
