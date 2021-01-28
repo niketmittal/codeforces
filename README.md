@@ -1,2 +1,2 @@
 # codeforces
-... daily codes
+contest codes
