@@ -1,3 +1,9 @@
+time limit per test:1 second
+memory limit per test:512 megabytes
+input:standard input
+output:standard output
+
+
 Nezzar has n balls, numbered with integers 1,2,…,n. Numbers a1,a2,…,an are written on them, respectively. Numbers on those balls form a non-decreasing sequence, which means that ai≤ai+1 for all 1≤i<n.
 
 Nezzar wants to color the balls using the minimum number of colors, such that the following holds.
