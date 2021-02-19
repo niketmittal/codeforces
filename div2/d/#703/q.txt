@@ -1,0 +1,18 @@
+D. Max Median
+time limit per test2 seconds
+memory limit per test256 megabytes
+inputstandard input
+outputstandard output
+You are a given an array  of length . Find a subarray  with length at least  with the largest median.
+
+A median in an array of length  is an element which occupies position number  after we sort the elements in non-decreasing order. For example: , , .
+
+Subarray  is a contiguous part of the array , i. e. the array  for some , its length is .
+
+Input
+The first line contains two integers  and  ().
+
+The second line contains  integers  ().
+
+Output
+Output one integer  — the maximum median you can get.
